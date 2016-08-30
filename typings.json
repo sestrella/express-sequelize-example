@@ -1,0 +1,11 @@
+{
+  "name": "express-sequelize-example",
+  "dependencies": {},
+  "globalDependencies": {
+    "bluebird": "registry:dt/bluebird#2.0.0+20160811111256",
+    "lodash": "registry:dt/lodash#4.14.0+20160829143836",
+    "node": "registry:env/node#4.0.0+20160825160117",
+    "sequelize": "registry:dt/sequelize#3.4.1+20160815132916",
+    "validator": "registry:dt/validator#4.5.1+20160316155526"
+  }
+}

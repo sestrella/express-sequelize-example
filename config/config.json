@@ -1,0 +1,10 @@
+{
+  "development": {
+    "database": "express_sequelize_development",
+    "dialect": "postgresql"
+  },
+  "test": {
+    "database": "express_sequelize_test",
+    "dialect": "postgresql"
+  }
+}
